@@ -1,12 +1,13 @@
 ## Hi there 👋
 
 ## 🔧 Tech Stack
-- **Languages:** C#, WPF
-- **Tools:** Visual Studio, Visual Studio Code, Git, Docker
+- **Languages:** Rust, C#, WPF
+- **Tools:** Visual Studio, Zed, Visual Studio Code, Git, Deepseek
 
-## 📚 Projects(Active participation)
-- [Plain Craft Launcher 2](https://github.com/Hex-Dragon/PCL2): A third-part Minecraft Launcher.I'm working on the localization of this project.
-- [MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights): A tool that help Arknights player have better game experience.~~I am now slacking off in this project.~~
+## 📚 Projects (participation)
+
+- [Plain Craft Launcher Community Edition](https://github.com/PCL-Community/PCL-CE) : A Minecraft launcher which develops on new tech stackm, and we are currently refactoring all the features
+- Some interesting simple tools
 
 ## 🛞 Platform
 

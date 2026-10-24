@@ -1,13 +1,8 @@
 ## Hi there 👋
 
 ## 🔧 Tech Stack
-- **Languages:** Rust, C#, WPF
+- **Languages:** Rust, Python, Matlab, C#, WPF
 - **Tools:** Visual Studio, Zed, Visual Studio Code, Git, Deepseek
-
-## 📚 Projects (participation)
-
-- [Plain Craft Launcher Community Edition](https://github.com/PCL-Community/PCL-CE) : A Minecraft launcher which develops on new tech stackm, and we are currently refactoring all the features
-- Some interesting simple tools
 
 ## 🛞 Platform
 
